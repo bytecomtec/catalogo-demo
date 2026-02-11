@@ -23,7 +23,7 @@ const styles = `
         font-size: 30px; z-index: 2000; box-shadow: 0 4px 15px rgba(0,0,0,0.3);
         transition: background 0.3s;
     }
-    .nav-btn:hover { background: #e68a00; }
+    .nav-btn:hover { background: #28577a; }
     #prev-page { left: 30px; }
     #next-page { right: 30px; }
     
