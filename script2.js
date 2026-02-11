@@ -3,7 +3,7 @@ const primaryColor = '#ff9800';
 
 // 1. Estilos optimizados para Web (Desktop y Mobile)
 const styles = `
-    body { margin: 0; background: #2c3e50; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; overflow: hidden; }
+    body { margin: 0; background: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; overflow: hidden; }
     #canvas-container { 
         position: relative; width: 100vw; height: 100dvh; 
         display: flex; justify-content: center; align-items: center;
