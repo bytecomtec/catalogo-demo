@@ -7,7 +7,7 @@ const styles = `
     #canvas-container { 
         position: relative; width: 100vw; height: 100dvh; 
         display: flex; justify-content: center; align-items: center;
-        perspective: 2000px;
+        background: transparent; perspective: 2000px;
     }
     #flipbook { 
         display: none; 
